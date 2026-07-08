@@ -3,6 +3,13 @@ A Financial Business Intelligence EDA &amp; Dashboard
 
 Interactive Power BI dashboard and exploratory data analysis (EDA) for the **Power BI Financial Sample** dataset.
 
+<img width="4150" height="2400" alt="financial_dashboard_page-0001" src="https://github.com/user-attachments/assets/45ec9ec2-4f13-4f5c-95e5-78b181436b28" />
+<img width="4150" height="2400" alt="financial_dashboard_page-0002" src="https://github.com/user-attachments/assets/d5dfebc9-641e-48d3-89b7-08adb81d791a" />
+<img width="4150" height="2400" alt="financial_dashboard_page-0003" src="https://github.com/user-attachments/assets/a9ad7c4c-bb7e-40a7-b6ef-d8712c309a91" />
+<img width="4150" height="2400" alt="financial_dashboard_page-0004" src="https://github.com/user-attachments/assets/6ab3fe9a-c26a-45ab-a488-80b658a8880f" />
+<img width="4150" height="2400" alt="financial_dashboard_page-0005" src="https://github.com/user-attachments/assets/a4cba0cb-250f-4805-a936-45fbd572ec42" />
+<img width="4150" height="2400" alt="financial_dashboard_page-0006" src="https://github.com/user-attachments/assets/5ef9d47f-dd72-47db-8d74-8213793ceaac" />
+
 This repo contains:
 - A **Power BI template dashboard** (`.pbit`) for executive and drill-through reporting
 - An **exported PDF** preview of the dashboard pages
